@@ -1,0 +1,116 @@
+body{
+
+    background-color: #FEFCF9;
+    color: #5C4033;
+    font-family: 'Nuosu SIL', serif;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.todoelcontenido { margin: 0px auto !important;
+    width: 90% !important; }
+
+.logoheader {text-align: center;
+    width: 100px !important;
+  padding: 10px}
+  .logoheader :hover { opacity: 50%; }   
+
+
+
+  .carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding: 15px;}
+
+.tituloindex { font-family: 'Abril Fatface' !important; }
+.infoindex { margin: auto;
+             width: 80%; 
+            padding: 5%;}
+.resaltado {font-family: 'Abril Fatface' !important; }
+    
+.card-title { font-family: 'Abril Fatface' !important; }
+.infomuseo { display: flex; margin: auto; }
+
+.minombre { padding: 1%; background-color: #5C4033; }
+.btn { color: #5C4033; }
+
+
+/* página artistas */
+
+.cajainfoartistas { display: flex; justify-content: center;}
+.fotoartistas { width: 50%; padding: 4%; text-align: center;}
+.fotoartista { width: 75%; }
+.cajatextoartistas { width: 50%; padding: 5%;}
+.textoartistas { font-size: 20px; }
+.tituloartistas { font-family: 'Abril Fatface' !important; text-align: center;}
+
+.trescajasartistas {display: flex; text-align: center;}
+
+.bannerartistas { width: 90%; background-color: #EFEAE4;}
+.fotoartistasandro { width: 100%; animation: fadeIn 5s;; }
+
+.w-100 {
+  width: 70%!important;
+  justify-content: center !important;
+  text-align: center;
+  margin: auto;
+}
+
+
+.cajascon3fotosindex { display: flex; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.card { padding: 5px;
+         margin: 5%;}
+
+.contenedormapa { margin-left: 10%; }
+
+.contenidoindex { display: flex; margin-top: 10%; margin-bottom: 10%; }
+.cajabannercuadrado { width: 30%; }
+  .fototour { width: 100%; }
+
+.filagaleria { display: flex; }
+.img-thumbnail { width: 25%; }
+
+
+  
+
+
+
+
+
+
+.formulario {
+
+margin: 10px;
+
+}
+
+
+
+
+
+.titulosformulario { 
+
+padding: 0px;
+margin: 0px;
+}
+
+
+
+.caja-slider {
+  width: 35%;
+  margin: auto;
+}
+
+
+
+h6 { font-size: 40px; }
+.titulocontactanos { background-color: #eae3c980; padding: 5%;}
+.todoelcontenidoform { display: flex; width: 90%; margin: auto;}
+.formulariocontacto { width: 40%; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 3%; }
+.posterform { width: 35%; margin-left: 20%;}
+
+
+
+
+
